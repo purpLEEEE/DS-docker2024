@@ -1,0 +1,28 @@
+16) Qu'est ce que Docker ? A quoi cela sert-il ?
+Docker est une plateforme logicielle permettant de créer, déployer et exécuter des applications de manière légère et portable. 
+Il utilise des conteneurs pour encapsuler une application et ses dépendances ce qui assure une exécution sans erreur sur différents
+environnements.
+
+En simplifiant, Docker facilite le développement, le déploiement et la gestion d'applications.
+
+
+17) Qu'est ce que la CI et la CD ? Pourquoi est-ce utile ?
+
+La CI consiste à fusionner les changements de code dans un référentiel partagé (Github, Gitlab, etc.). À chaque fusion, des tests automatiques 
+sont exécutés pour détecter rapidement d'éventuels problèmes d'intégration. Cela permet d'identifier et de résoudre les erreurs plus tôt 
+dans le processus de développement.
+
+La CD va au-delà de la CI ; une fois que le code a passé les tests d'intégration, il est automatiquement déployé dans un environnement de 
+production (ou un autre environnement selon les contraintes de déploiement, certaines sociétés préfèrent avoir un dernier check manuel).
+Cela permet une livraison rapide et fiable des nouvelles fonctionnalités ou corrections de bugs.
+
+
+18) Qu'avez vous pensez du cours ?
+Je suis triste de ne pas avoir été là les deux premières semaines parce que le cours était très intéressant ; je pense 
+même postuler à des postes de DevOps à la fin de mon alternance, je trouve ça stimulant. C'était une bonne approche pratique (et théorique
+même si c'est cette partie là que j'avais raté mais Clément me l'a refaite en rapide à mon retour).
+
+19) Surprenez moi
+Vous devriez avoir reçu une invitation LinkedIn avec une note personnalisée (c'est pas surprenant ça ?). Cela pourra m'être utile pour ma
+recherche d'emploi :)
+

@@ -11,8 +11,7 @@ on:
 
 defaults:
   run:
-    shell: bash
-    working-directory: ./angular/
+    working-directory: ./angular
     
 jobs:
   build:

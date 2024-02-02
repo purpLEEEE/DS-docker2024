@@ -14,6 +14,10 @@ on:
   pull_request:
     branches: [ "main" ]
 
+defaults:
+  run:
+    working-directory: ./java
+
 jobs:
   build:
 
@@ -29,4 +33,4 @@ jobs:
         distribution: 'temurin'
         cache: maven
     - name: Build with Maven
-      run: mvn -B package -DskipTests --file java/pom.xml
+      run: mvn -B package -DskipTests --file pom.xml
